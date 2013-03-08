@@ -2,19 +2,29 @@
 	"auto_complete": false,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/themes/Monokai.tmTheme",
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/themes/PlasticCodeWrap.tmTheme",
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
 	"font_face": "Menlo",
-	"font_options": [],
-	"font_size": 11,
+	"font_options":
+	[
+	],
+	"git_binary": "/usr/local/bin/git",
+	"git_gutter_live_mode": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages": [],
+	"ignored_packages":
+	[
+	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"open_files_in_new_window": false,
-	"rulers": [79],
+	"rulers":
+	[
+		79
+	],
 	"tab_size": 4,
 	"theme": "Nil.sublime-theme",
 	"translate_tabs_to_spaces": true,

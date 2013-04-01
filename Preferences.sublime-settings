@@ -27,9 +27,12 @@
 	[
 		// 79
 	],
+	"save_on_focus_lost": false, // enable this when doing css for easy alt+tab to browser, no saving required
+	"scroll_past_end": true, // seeing if i like this
 	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true, // great for mac two monitor setup. you won't lose second monitor this way.
 	"vintage_ctrl_keys": true
 }
